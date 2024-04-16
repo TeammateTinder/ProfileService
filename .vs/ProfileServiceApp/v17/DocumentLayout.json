@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileService.csproj|c:\\users\\kaan\\source\\repos\\c#\\profileservice\\profileservice\\models\\profilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileService.csproj|solutionrelative:profileservice\\models\\profilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileService.csproj|c:\\users\\kaan\\source\\repos\\c#\\profileservice\\profileservice\\data\\profiles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileService.csproj|solutionrelative:profileservice\\data\\profiles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileService.csproj|c:\\users\\kaan\\source\\repos\\c#\\profileservice\\profileservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileService.csproj|solutionrelative:profileservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileService.csproj|c:\\users\\kaan\\source\\repos\\c#\\profileservice\\profileservice\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileService.csproj|solutionrelative:profileservice\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileService.csproj|c:\\users\\kaan\\source\\repos\\c#\\profileservice\\profileservice\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileService.csproj|solutionrelative:profileservice\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileService.csproj|c:\\users\\kaan\\source\\repos\\c#\\profileservice\\profileservice\\backgroundservices\\receivemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileService.csproj|solutionrelative:profileservice\\backgroundservices\\receivemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\ProfileService\\Services\\ProfileService.cs",
+              "RelativeDocumentMoniker": "ProfileService\\Services\\ProfileService.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\ProfileService\\Services\\ProfileService.cs",
+              "RelativeToolTip": "ProfileService\\Services\\ProfileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:02:50.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfileModel.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\ProfileService\\Models\\ProfileModel.cs",
+              "RelativeDocumentMoniker": "ProfileService\\Models\\ProfileModel.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\ProfileService\\Models\\ProfileModel.cs",
+              "RelativeToolTip": "ProfileService\\Models\\ProfileModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:08:22.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\ProfileService\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "ProfileService\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\ProfileService\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "ProfileService\\Controllers\\ProfileController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAwDYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:07:10.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "profiles.json",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\ProfileService\\Data\\profiles.json",
+              "RelativeDocumentMoniker": "ProfileService\\Data\\profiles.json",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\ProfileService\\Data\\profiles.json",
+              "RelativeToolTip": "ProfileService\\Data\\profiles.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T09:03:37.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReceiveMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\ProfileService\\BackgroundServices\\ReceiveMessages.cs",
+              "RelativeDocumentMoniker": "ProfileService\\BackgroundServices\\ReceiveMessages.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\ProfileService\\BackgroundServices\\ReceiveMessages.cs",
+              "RelativeToolTip": "ProfileService\\BackgroundServices\\ReceiveMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:38:28.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\ProfileService\\Program.cs",
+              "RelativeDocumentMoniker": "ProfileService\\Program.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\ProfileService\\Program.cs",
+              "RelativeToolTip": "ProfileService\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:17:35.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

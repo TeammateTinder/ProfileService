@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProfileServiceApp", "ProfileService\ProfileServiceApp.csproj", "{0AFAE910-1676-42C7-BA17-775A42BFBEE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AFAE910-1676-42C7-BA17-775A42BFBEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFAE910-1676-42C7-BA17-775A42BFBEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFAE910-1676-42C7-BA17-775A42BFBEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFAE910-1676-42C7-BA17-775A42BFBEE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76F16946-A5FA-48F1-B539-43F3FA036F72}
+	EndGlobalSection
+EndGlobal
