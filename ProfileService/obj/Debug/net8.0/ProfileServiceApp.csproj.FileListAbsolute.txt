@@ -45,3 +45,4 @@ C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Debug\net8.0\ref
 C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Debug\net8.0\ProfileServiceApp.pdb
 C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Debug\net8.0\ProfileServiceApp.genruntimeconfig.cache
 C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Debug\net8.0\ref\ProfileServiceApp.dll
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Debug\net8.0\ProfileServiceApp.sourcelink.json

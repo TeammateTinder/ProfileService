@@ -9,7 +9,7 @@ namespace ProfileServiceApp.Services
 
         public ProfileService(IMongoClient mongoClient)
         {
-            var database = mongoClient.GetDatabase("TeammateTinder"); // Replace with your database name
+            var database = mongoClient.GetDatabase("TeammateTinder");
             _profileCollection = database.GetCollection<ProfileModel>("Profiles");
         }
 
