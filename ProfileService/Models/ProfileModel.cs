@@ -6,7 +6,7 @@
     public class ProfileModel
     {
         public int Id { get; set; }
-        public string Username { get; set; }
+        public required string Username { get; set; }
         public int PowerRanking { get; set; }
     }
 }
