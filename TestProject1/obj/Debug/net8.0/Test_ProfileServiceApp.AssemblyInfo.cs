@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Test_ProfileServiceApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6196f9594d0283cc84607c60ae48a2ead011ac0c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+344cfbc505bc3a101d5ddc66120778e1fe73fce6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Test_ProfileServiceApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Test_ProfileServiceApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
