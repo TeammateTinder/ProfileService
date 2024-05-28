@@ -1,0 +1,95 @@
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\appsettings.Development.json
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\appsettings.json
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\Data\profiles.json
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\ProfileServiceApp.exe
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\ProfileServiceApp.deps.json
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\ProfileServiceApp.runtimeconfig.json
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\ProfileServiceApp.dll
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\ProfileServiceApp.pdb
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\AWSSDK.Core.dll
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\DnsClient.dll
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\MongoDB.Bson.dll
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\MongoDB.Driver.dll
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\RabbitMQ.Client.dll
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\SharpCompress.dll
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\Snappier.dll
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\ZstdSharp.dll
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\bin\Release\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.csproj.AssemblyReference.cache
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.AssemblyInfoInputs.cache
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.AssemblyInfo.cs
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.sourcelink.json
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\staticwebassets\msbuild.ProfileServiceApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\staticwebassets\msbuild.build.ProfileServiceApp.props
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProfileServiceApp.props
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.ProfileServiceApp.props
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\scopedcss\bundle\ProfileServiceApp.styles.css
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\ProfileS.219724A3.Up2Date
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.dll
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\refint\ProfileServiceApp.dll
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.pdb
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.genruntimeconfig.cache
+C:\Users\Kaan\source\repos\C#\ProfileService\ProfileService\obj\Release\net8.0\ref\ProfileServiceApp.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\appsettings.Development.json
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\appsettings.json
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\ProfileServiceApp.exe
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\ProfileServiceApp.deps.json
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\ProfileServiceApp.runtimeconfig.json
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\ProfileServiceApp.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\ProfileServiceApp.pdb
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\AWSSDK.Core.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\DnsClient.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\MongoDB.Bson.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\MongoDB.Driver.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\RabbitMQ.Client.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\SharpCompress.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\Snappier.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\ZstdSharp.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\bin\Release\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.csproj.AssemblyReference.cache
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.AssemblyInfoInputs.cache
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.AssemblyInfo.cs
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.sourcelink.json
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\staticwebassets\msbuild.ProfileServiceApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\staticwebassets\msbuild.build.ProfileServiceApp.props
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProfileServiceApp.props
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.ProfileServiceApp.props
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\scopedcss\bundle\ProfileServiceApp.styles.css
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\ProfileS.219724A3.Up2Date
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\refint\ProfileServiceApp.dll
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.pdb
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\ProfileServiceApp.genruntimeconfig.cache
+C:\Users\Kaan\source\repos\Teammate Tinder\ProfileService\ProfileService\obj\Release\net8.0\ref\ProfileServiceApp.dll

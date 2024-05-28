@@ -1,22 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\",
+  "WorkspaceRootPath": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileServiceApp.csproj|c:\\users\\kaan\\source\\repos\\c#\\profileservice\\profileservice\\models\\profilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileServiceApp.csproj|solutionrelative:profileservice\\models\\profilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileServiceApp.csproj|c:\\users\\kaan\\source\\repos\\c#\\profileservice\\profileservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileServiceApp.csproj|c:\\users\\kaan\\source\\repos\\teammate tinder\\profileservice\\profileservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileServiceApp.csproj|solutionrelative:profileservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileServiceApp.csproj|C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\profileservice\\profileserviceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileServiceApp.csproj|solutionrelative:profileservice\\profileserviceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileServiceApp.csproj|C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\profileservice\\backgroundservices\\receivemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileServiceApp.csproj|solutionrelative:profileservice\\backgroundservices\\receivemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileServiceApp.csproj|C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\profileservice\\profileserviceapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileServiceApp.csproj|solutionrelative:profileservice\\profileserviceapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{85A52148-3E1F-45CF-82B1-5AD14E81FDF3}|TestProject1\\Test_ProfileServiceApp.csproj|C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\testproject1\\test_profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A52148-3E1F-45CF-82B1-5AD14E81FDF3}|TestProject1\\Test_ProfileServiceApp.csproj|solutionrelative:testproject1\\test_profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileServiceApp.csproj|C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\profileservice\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileServiceApp.csproj|solutionrelative:profileservice\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileServiceApp.csproj|C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\profileservice\\models\\profilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileServiceApp.csproj|solutionrelative:profileservice\\models\\profilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileServiceApp.csproj|C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\profileservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileServiceApp.csproj|solutionrelative:profileservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileServiceApp.csproj|C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\profileservice\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileServiceApp.csproj|solutionrelative:profileservice\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileServiceApp.csproj|C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\profileservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AFAE910-1676-42C7-BA17-775A42BFBEE7}|ProfileService\\ProfileServiceApp.csproj|solutionrelative:profileservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A52148-3E1F-45CF-82B1-5AD14E81FDF3}|TestProject1\\Test_ProfileServiceApp.csproj|C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\testproject1\\test_profileserviceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85A52148-3E1F-45CF-82B1-5AD14E81FDF3}|TestProject1\\Test_ProfileServiceApp.csproj|solutionrelative:testproject1\\test_profileserviceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A52148-3E1F-45CF-82B1-5AD14E81FDF3}|TestProject1\\TestProject1.csproj|C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\testproject1\\test_profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A52148-3E1F-45CF-82B1-5AD14E81FDF3}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test_profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +50,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProfileModel.cs",
-              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\ProfileService\\Models\\ProfileModel.cs",
-              "RelativeDocumentMoniker": "ProfileService\\Models\\ProfileModel.cs",
-              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\ProfileService\\Models\\ProfileModel.cs",
-              "RelativeToolTip": "ProfileService\\Models\\ProfileModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T08:48:13.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\ProfileService\\Program.cs",
-              "RelativeDocumentMoniker": "ProfileService\\Program.cs",
-              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\ProfileService\\Program.cs",
-              "RelativeToolTip": "ProfileService\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T07:45:27.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProfileServiceApp",
-              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\ProfileService\\ProfileServiceApp.csproj",
-              "RelativeDocumentMoniker": "ProfileService\\ProfileServiceApp.csproj",
-              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\ProfileService\\ProfileServiceApp.csproj",
-              "RelativeToolTip": "ProfileService\\ProfileServiceApp.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-17T07:45:06.769Z"
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\ProfileService\\appsettings.json",
+              "RelativeDocumentMoniker": "ProfileService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\ProfileService\\appsettings.json",
+              "RelativeToolTip": "ProfileService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T13:04:09.333Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProfileServiceApp",
-              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\ProfileService\\ProfileServiceApp.csproj",
-              "RelativeDocumentMoniker": "ProfileService\\ProfileServiceApp.csproj",
-              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\ProfileService\\ProfileService\\ProfileServiceApp.csproj",
-              "RelativeToolTip": "ProfileService\\ProfileServiceApp.csproj",
+              "Title": "ProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\ProfileService\\Services\\ProfileService.cs",
+              "RelativeDocumentMoniker": "ProfileService\\Services\\ProfileService.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\ProfileService\\Services\\ProfileService.cs",
+              "RelativeToolTip": "ProfileService\\Services\\ProfileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:39:39.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test_ProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\TestProject1\\Test_ProfileService.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Test_ProfileService.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\TestProject1\\Test_ProfileService.cs",
+              "RelativeToolTip": "TestProject1\\Test_ProfileService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAwwDoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:34:44.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Test_ProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\TestProject1\\Test_ProfileService.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Test_ProfileService.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\TestProject1\\Test_ProfileService.cs",
+              "RelativeToolTip": "TestProject1\\Test_ProfileService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAwwDoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:14:10.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReceiveMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\ProfileService\\BackgroundServices\\ReceiveMessages.cs",
+              "RelativeDocumentMoniker": "ProfileService\\BackgroundServices\\ReceiveMessages.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\ProfileService\\BackgroundServices\\ReceiveMessages.cs",
+              "RelativeToolTip": "ProfileService\\BackgroundServices\\ReceiveMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:23:45.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfileModel.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\ProfileService\\Models\\ProfileModel.cs",
+              "RelativeDocumentMoniker": "ProfileService\\Models\\ProfileModel.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\ProfileService\\Models\\ProfileModel.cs",
+              "RelativeToolTip": "ProfileService\\Models\\ProfileModel.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:48:13.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\ProfileService\\Program.cs",
+              "RelativeDocumentMoniker": "ProfileService\\Program.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\ProfileService\\Program.cs",
+              "RelativeToolTip": "ProfileService\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:50:43.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\ProfileService\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "ProfileService\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\ProfileService\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "ProfileService\\Controllers\\ProfileController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAwFIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:18:21.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\ProfileService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProfileService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\ProfileService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProfileService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T13:04:26.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Test_ProfileServiceApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\TestProject1\\Test_ProfileServiceApp.csproj",
+              "RelativeDocumentMoniker": "TestProject1\\Test_ProfileServiceApp.csproj",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\Teammate Tinder\\ProfileService\\TestProject1\\Test_ProfileServiceApp.csproj",
+              "RelativeToolTip": "TestProject1\\Test_ProfileServiceApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-17T07:44:09.322Z"
+              "WhenOpened": "2024-05-13T07:12:36.214Z"
             }
           ]
         }
